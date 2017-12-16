@@ -1,0 +1,7 @@
+The file which needs to be changed in order to generate a new CV is called cv.tex.
+
+For saving it in a PDF format, you need to run the following command (MAC):
+`xelatex cv.tex ` will generate a pdf with the name cv.pdf
+
+All that's left is to rename your file with what you need.
+
